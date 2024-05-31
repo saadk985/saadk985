@@ -1,10 +1,4 @@
-## Hi there 👋
-
-<!--
-**saadk985/saadk985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Hi There!
 - 🔭 I’m currently working on Systems Biology
 - 🌱 I’m currently learning the Python and ML mathematical concepts. 
 - 👯 I’m looking to collaborate on mathematical modeling of bio-systems. 
